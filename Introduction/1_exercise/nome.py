@@ -1,1 +1,0 @@
-print("Diusval Gonçalves Pinheiro")
