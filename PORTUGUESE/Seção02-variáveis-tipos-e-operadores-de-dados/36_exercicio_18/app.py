@@ -11,5 +11,5 @@ deposito = float(input("Por favor digite o valor que deseja depositar em sua con
 
 valor_final = (359.56 + deposito) - 125.98
 
-print("O valor de 125,98 foi abatido na fatura do seu cartão de crédito, após o deposito realizado.")
+print("O valor de 125.98 foi abatido na fatura do seu cartão de crédito, após o deposito realizado.")
 print("Valor atualizado na conta %.2f." %valor_final)
