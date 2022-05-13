@@ -1,7 +1,7 @@
-#Crie um proggrama que recebe o saldo de uma cont bancária com R$359,56;
+#Crie um programa que receba o saldo de uma conta bancária com R$359.56;
 #Depois insira uma nova quantia por meio de input;
-#E renova um valor de R$125,98, referente a fatura de cartão de crédito;
-#Imprima o valor final da conta após as operações com strin dinâmica;
+#E remova um valor de R$125.98, referente a fatura de cartão de crédito;
+#Imprima o valor final da conta após as operações com string dinâmica;
 
 nome = (input("Digite o seu nome por gentileza: "))
 
