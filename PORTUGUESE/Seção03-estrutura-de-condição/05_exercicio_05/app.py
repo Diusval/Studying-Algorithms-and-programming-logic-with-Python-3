@@ -1,4 +1,4 @@
-#Escreva um programa que lê dois números
+#Escreva um programa que lê dois números;
 #depois imprima o maior deles;
 
 n1 = float(input("Digite um número: "))
