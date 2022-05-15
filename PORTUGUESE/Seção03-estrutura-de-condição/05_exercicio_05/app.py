@@ -9,3 +9,6 @@ if n1 > n2:
 
 if n2 > n1:
   print("O segundo número: %.0f é maior do que %.0f." % (n2, n1))
+
+if n1 == n2:
+  print("%.0f é igual a %.0f." % (n1, n2))
