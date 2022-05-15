@@ -5,10 +5,10 @@ n1 = float(input("Digite um número: "))
 n2 = float(input("Digite outro o número: "))
 
 if n1 > n2:
-  print("O primeiro número: %.0f é maior do que %.0f." % (n1, n2))
+  print("O primeiro número: %.2f é maior do que %.2f." % (n1, n2))
 
 if n2 > n1:
-  print("O segundo número: %.0f é maior do que %.0f." % (n2, n1))
+  print("O segundo número: %.2f é maior do que %.2f." % (n2, n1))
 
 if n1 == n2:
-  print("%.0f é igual a %.0f." % (n1, n2))
+  print("%.2f é igual a %.2f." % (n1, n2))
