@@ -3,7 +3,7 @@
 
 numero_fim = int(input("Digite um numero para o loop poder acabar: "))
 
-numero = 0
-while numero <= numero_fim:
-  print(numero)
-  numero = numero + 1
+numero_inicio = 0
+while numero_inicio <= numero_fim:
+  print(numero_inicio)
+  numero_inicio = numero_inicio + 1
