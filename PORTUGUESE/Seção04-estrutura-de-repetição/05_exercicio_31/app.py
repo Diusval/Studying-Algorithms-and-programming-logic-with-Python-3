@@ -1,4 +1,4 @@
-#Crie um programa que imprime todos os numeros pares de 1 a 50;
+#Crie um programa que imprime todos os números pares de 1 a 50;
 
 np = 2
 
