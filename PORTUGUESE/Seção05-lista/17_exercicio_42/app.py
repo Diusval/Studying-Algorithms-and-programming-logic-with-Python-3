@@ -1,3 +1,8 @@
+#Crie uma lista com número de 1 a 10;
+#Percorra a lista com um loop;
+#Quando encontrar o elemento 4 remova-o;
+#Exiba a nova lista por print;
+
 lista = []
 
 i = 0
