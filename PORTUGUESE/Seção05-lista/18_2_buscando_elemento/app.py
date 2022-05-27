@@ -1,3 +1,5 @@
+#Buscando elemento dentro de uma lista;
+
 l = ["Sofá", "Televisão", "Rádio", "Ar condicionado", "Poltrona"]
 
 i = 0
