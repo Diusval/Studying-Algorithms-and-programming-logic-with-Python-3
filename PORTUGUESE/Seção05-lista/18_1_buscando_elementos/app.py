@@ -1,5 +1,3 @@
-#Buscando elemento dentro de uma lista;
-
 lista = []
 
 i = 0
