@@ -1,6 +1,3 @@
-import nacl
-
-
 nome = input("Digite o seu nome: ")
 
 if nome == "Diusval":
