@@ -13,7 +13,7 @@ def contador(texto):
 
   return r
 
-pri = contador("Ola tudo bem eu me chamo diusval")
+pri = contador("Ola tudo bem eu me chamo Diusval")
 print(pri)
 
 seg = contador("oi")
