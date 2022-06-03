@@ -1,16 +1,16 @@
-#crie uma funcao que retorna se um numero e maior ou menor que 10;
-#O numero deve ser passado como parametro;
+#crie uma função que retorna se um numero é maior ou menor que 10;
+#O número deve ser passado como parametro;
 
 def comparacao(comp):
 
   r = ""
 
   if comp > 10:
-    print("O numero %d, e maior que 10!" % comp)
+    print("O número %d, é maior que 10!" % comp)
   elif comp == 10:
-    print("O numero e 10!")
+    print("O número é 10!")
   else:
-    print("O numero %d, e menor que 10!" %comp)
+    print("O número %d, é menor que 10!" %comp)
 
   return r
 
