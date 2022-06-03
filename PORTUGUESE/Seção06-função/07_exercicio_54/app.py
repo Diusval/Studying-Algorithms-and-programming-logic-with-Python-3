@@ -21,3 +21,9 @@ notas = [9,8,7,3]
 media_prova = calc_media(notas)
 print(notas)
 print(media_prova)
+
+numeros = [2,15,748,54,12,25,12,16,145]
+
+media_numeros = calc_media(numeros)
+print(numeros)
+print(media_numeros)
