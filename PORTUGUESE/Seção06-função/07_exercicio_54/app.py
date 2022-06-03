@@ -1,9 +1,6 @@
 #Escreva uma função que recebe uma lista de números;
 #Calcule a média dos números da lista;
 
-from statistics import median
-
-
 def calc_media(lista):
   media = 0
   soma = 0
