@@ -1,5 +1,5 @@
 #Crie uma classe Carro com as propriedades marca, valor, número de portas e tanque de gasolina;
-#Crie um método que  abastece o tanque de gasolina;
+#Crie um método que abastece o tanque de gasolina;
 #Crie um método dirigir que remove gasolina baseado em uma km rodada;
 
 class Carro:
