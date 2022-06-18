@@ -27,6 +27,14 @@ class Gato(Maniferos):
   def miar(self):
     print("Miauuuuu")
 
+class Macaco(Maniferos):
+  def __init__(self, patas, orelhas, pelos):
+    super().__init__(patas, orelhas)
+    self.pelos = pelos
+
+  def mamaquice(self):
+    print("Uaa u aaaa!")
+
 
 #Cachorro
 tufao = Cachorro(4, 2, "preto")
@@ -45,3 +53,12 @@ bruce.andar()
 bruce.miar()
 
 print(bruce.listras)
+
+#Macaco
+kacu_Kacu = Macaco(4, 2, True)
+
+kacu_Kacu.andar()
+
+kacu_Kacu.mamaquice()
+
+print(kacu_Kacu.pelos)
