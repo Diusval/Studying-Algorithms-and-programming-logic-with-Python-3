@@ -1,4 +1,4 @@
-#List: Transforma uma STRING em uma LIST;
+#List: Transforma uma STRING em uma LIST.
 #.JOIN: Transforma uma LIST em uma STING.
 
 palavra = "Testando"
